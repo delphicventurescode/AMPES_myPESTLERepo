@@ -1,18 +1,22 @@
-# AMPES_myPESTLERepo
+# AMPES – Contact & Course Information
 
-1. Email address:
+## 1. Email Address
 
-My email address: <first_name> dot <last_name> at gmail dot com will always reach me.
+My primary email address is:
 
-The email address ending in 2012 also works, and, in fact, emails sent to the above email address get forwarded to the email address ending in 2012.
+**`<first_name>.<last_name>@gmail.com`**
 
-So, either one works.
+This will always reach me.
 
-2. Classes taught:
+My email address ending in **2012** also works — messages sent to the Gmail address above are automatically forwarded there.  
+**Either address is fine to use.**
 
-   - Brand Management: Trimester 4, MBA
-   - Data and Decisions: Trimester 1, MBA
+## 2. Courses I Teach
 
-3. Email is my preferred way of being contacted. Only Class Reps, generally speaking, contact me via WhatsApp or other means.
-   
-[+]
+- **Brand Management** – MBA, Trimester 4  
+- **Data and Decisions** – MBA, Trimester 1
+
+## 3. Preferred Mode of Contact
+
+Email is the **preferred and official** way to reach me.  
+Only Class Representatives may contact me via WhatsApp or other channels when necessary.
