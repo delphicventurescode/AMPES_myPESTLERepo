@@ -8,4 +8,6 @@ My email address: <first_name> dot <last_name> at gmail dot com will always reac
 
    - Brand Management: Trimester 4, MBA
    - Data and Decisions: Trimester 1, MBA
+
+   
 [+]
