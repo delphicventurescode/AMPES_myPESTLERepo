@@ -4,6 +4,10 @@
 
 My email address: <first_name> dot <last_name> at gmail dot com will always reach me.
 
+The email address ending in 2012 also works, and, in fact, emails sent to the above email address get forwarded to the email address ending in 2012.
+
+So, either one works.
+
 2. Classes taught:
 
    - Brand Management: Trimester 4, MBA
