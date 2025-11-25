@@ -13,5 +13,6 @@ So, either one works.
    - Brand Management: Trimester 4, MBA
    - Data and Decisions: Trimester 1, MBA
 
+3. Email is my preferred way of being contacted. Only Class Reps, generally speaking, contact me via WhatsApp or other means.
    
 [+]
