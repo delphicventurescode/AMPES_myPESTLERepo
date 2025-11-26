@@ -5,6 +5,7 @@
 ### Optional External Activity
 
 I’m happy to support a voluntary, student-run **Brand Management Club**.  
+
 A few clarifications to avoid any misunderstanding:
 
 - The club is **independent of PES University**.  
