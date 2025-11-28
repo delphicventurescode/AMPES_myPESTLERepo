@@ -13,6 +13,6 @@ For today's announcements, just go through this file (that is, this README.md fi
 2. **Portions covered:** We have completed up to **Slide 42** in the Unit 2 slide deck.  
    - The section on *Marketing Elements* is now fully covered.
 
-3. **ISA #1** is scheduled for **Dec 8**. Please be prepared.
+3. **ISA #1** is scheduled for the week of **Dec 8**. Please be prepared.
 
 [+]
