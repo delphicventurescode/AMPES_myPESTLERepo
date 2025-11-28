@@ -15,4 +15,6 @@ For today's announcements, just go through this file (that is, this README.md fi
 
 3. **ISA #1** is scheduled for the week of **Dec 8**. Please be prepared.
 
+4. Please submit your presentation slide decks by EOD the day before the day of your presentations.
+
 [+]
