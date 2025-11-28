@@ -2,6 +2,8 @@
 
 This directory contains the announcements for **Nov 28, 2025**.
 
+For today's announcements, just go through this file (that is, this README.md file).
+
 ---
 
 ### Announcements (Nov 28, 2025)
