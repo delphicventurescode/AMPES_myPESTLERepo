@@ -2,6 +2,6 @@
 
 [+]
 
-This directory is for announcements for the Brand Management class.
+This directory is for announcements & other information for the Brand Management class.
 
 [+]
