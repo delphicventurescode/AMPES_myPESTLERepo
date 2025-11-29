@@ -27,7 +27,7 @@ https://www.coursera.org/
 
 [+]
 
-2. For additional learning materials, try searching on Youtube.
+2. For additional learning materials, you may also explore high-quality explanations and lectures available on YouTube.
    
 {=}
 
