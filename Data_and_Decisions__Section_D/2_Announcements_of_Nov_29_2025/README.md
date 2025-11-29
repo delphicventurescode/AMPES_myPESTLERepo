@@ -13,15 +13,19 @@ For today’s announcements, please refer to this file (i.e., this README.md fil
 
 Here are a few online courses that could help students strengthen their understanding of fundamental topics such as probability axioms, addition and multiplication rules, random variables, sampling, and hypothesis testing:
 
-1. Khan Academy – Probability & Statistics (Free)
+A. Khan Academy – Probability & Statistics (Free)
 https://www.khanacademy.org/
 
 
-2. MIT OpenCourseWare – Introduction to Probability and Statistics (Free)
+B. MIT OpenCourseWare – Introduction to Probability and Statistics (Free)
 https://ocw.mit.edu/
 
 
-3. Coursera – Statistics with Python Specialization (University of Michigan)
+C. Coursera – Statistics with Python Specialization (University of Michigan)
 https://www.coursera.org/
 
 [+]
+
+2. For additional learning materials, try searching on Youtube.
+   
+{=}
