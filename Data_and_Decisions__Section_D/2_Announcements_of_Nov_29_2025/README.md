@@ -27,5 +27,6 @@ https://www.coursera.org/
 [+]
 
 2. For additional learning materials, you may also explore high-quality explanations and lectures available on YouTube.
-   
+
+3. The videos for this course are currently being categorized under various topics. For the Brand Management course, this includes topics such as “Introduction to Brands: Can Anything Be Branded?”, “Strategic Brand Management Process”, and others. For this course, this includes topics such as "Bayes' Theorem", "Binomial Distribution" and "Poission Distribution". Please note that this is a rough classification. To know exactly what was covered in any given session, refer to the specific slides used in that lecture.
 {=}
