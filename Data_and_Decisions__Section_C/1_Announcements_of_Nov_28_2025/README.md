@@ -2,6 +2,6 @@
 
 [+]
 
-This directory is for announcements & other information for the Data and Decisions class - Section D.
+- The dates for ISA1 have been announced. Please make a note of them.
 
 [+]
