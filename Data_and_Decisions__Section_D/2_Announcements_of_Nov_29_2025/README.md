@@ -7,8 +7,8 @@ For today’s announcements, please refer to this file (i.e., this README.md fil
 ---
 
 
-1. For people who want to strengthen their knowledge of probability and statistics, below are some course recommendations.
-   
+1. For those who want to strengthen their knowledge of probability and statistics, here are some recommended courses:
+
 [+]
 
 Here are a few online courses that could help students strengthen their understanding of fundamental topics such as probability axioms, addition and multiplication rules, random variables, sampling, and hypothesis testing:
@@ -26,6 +26,6 @@ https://www.coursera.org/
 
 [+]
 
-2. For additional learning materials, try searching on Youtube.
+2. For additional learning materials, you may also explore high-quality explanations and lectures available on YouTube.
    
 {=}
