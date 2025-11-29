@@ -2,6 +2,6 @@
 
 [+]
 
-- The dates for ISA1 have been announced. Please make a note of them.
+- The dates for ISA1 have been announced. Please make a note of this.
 
 [+]
