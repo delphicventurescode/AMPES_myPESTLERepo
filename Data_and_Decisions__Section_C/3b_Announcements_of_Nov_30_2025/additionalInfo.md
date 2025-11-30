@@ -1,3 +1,89 @@
 [:ADDITIONAL INFO -- FOR THOSE INTERESTED IN LEARNING MORE:]
 
-📊 Unit 1: Probability (Course Materials)Hey everyone, here is the complete breakdown of all the required and supplementary materials for Unit 1, covering the foundational concepts of probability, random variables, and key theorems.The most effective way to use this is to read the PDFs first, review the slides, and then immediately tackle the In-class Problems (before checking the solutions).📅 Schedule and Resources BreakdownClassPrimary TopicsRequired Readings (PDF)Supplementary MaterialsPractice & ReviewClass 1Introduction, Counting, and Sets1a: Introduction, 1b: Counting and SetsSlides: Introduction, Counting, and SetsOnline Reading Questions, In-class Problems (w/ Solutions)Class 2Probability: Terminology and ExamplesProbability: Terminology and ExamplesSlides: Probability Basics, R Tutorial A: Basics, R Tutorial B: Random NumbersOnline Reading Questions, In-class Problems (w/ Solutions)Studio 1Application: The Birthday Matches ProblemN/ASlides: Birthday MatchesN/AClass 3Conditional Probability, Independence, Bayes’ TheoremConditional Probability, Independence, Bayes’ TheoremSlides: Conditional Probability, Independence, and Bayes’ TheoremOnline Reading Questions, In-class Problems (w/ Solutions)Class 4Discrete Random Variables & Expected Value4a: Discrete Random Variables, 4b: Expected Value of Discrete Random VariablesSlides: Discrete Random Variables: Expected ValueOnline Reading Questions (R, 1, 2), In-class Problems (w/ Solutions)Class 5Variance (Discrete) & Continuous Random Variables5a: Variance of Discrete RVs, 5b: Continuous RVs, 5c: Gallery of Continuous RVs, 5d: Manipulating Random VariablesSlides 5a & 5b: Variance, Continuous RVs (continued)Online Reading Questions (1, 2, 3, 4), In-class Problems 5a & 5b (w/ Solutions)Class 6E[X], Var[X] for Continuous RVs, Central Limit Theorem (CLT) & Law of Large Numbers (LLN)6a: Continuous RVs: Expectation and Variance, 6b: Central Limit Theorem, 6c: AppendixSlides 6a & 6b: Continuous RVs, CLT, LLN, HistogramsOnline Reading Questions (variance, CLT/LLN), In-class Problems 6a & 6b (w/ Solutions)Class 7Joint Distributions, Covariance, and Correlation7a: Joint Distributions, Independence, 7b: Covariance and CorrelationSlides: Joint Distributions: Independence, Covariance, and CorrelationOnline Reading Questions (joint distributions, cov/corr), In-class Problems (w/ Solutions)Class 8Exam 1 ReviewN/ASlides: Review for Exam 1, Normal Probability Table, Exam 1 Review ListIn-class Problems (w/ Solutions)Key Focus Areas:R Tutorials (Class 2): Don't skip these—they provide the computational foundation for probability simulations.Theorems (Classes 3 & 6): Bayes' Theorem and the Central Limit Theorem are critical. Make sure you understand the derivations and applications.RVs (Classes 4 & 5): The distinction between Discrete and Continuous Random Variables is fundamental to the entire unit.🚀 Get StartedDive into Class 1! Let me know if you run into any issues with the material.
+A summary of the material in the MIT course.
+
+# Unit 1: Probability  
+Here — here is some stuff. Go through it. This is all the material your class needs to get up to speed.  
+
+## Class 1  
+- Class 1a Reading: Introduction (PDF)  
+- Class 1b Reading: Counting and Sets (PDF)  
+- Class 1 Online Reading Questions  
+- Class 1 Slides: Introduction, Counting, and Sets (PDF)  
+- Class 1 In-class Problems (PDF)  
+- Class 1 In-class Problem Solutions (PDF)
+
+## Class 2  
+- Class 2 Reading: Probability: Terminology and Examples (PDF)  
+- R Tutorial A: Basics  
+- R Tutorial B: Random Numbers  
+- Class 2 Online Reading Questions  
+- Class 2 Slides: Probability Basics (PDF)  
+- Class 2 In-class Problems (PDF)  
+- Class 2 In-class Problem Solutions (PDF)
+
+## Studio 1  
+- Studio 1 Slides: Birthday Matches (PDF)
+
+## Class 3  
+- Class 3 Reading: Conditional Probability, Independence, Bayes’ Theorem (PDF)  
+- Class 3 Online Reading Questions  
+- Class 3 Slides: Conditional Probability, Independence, and Bayes’ Theorem (PDF)  
+- Class 3 In-class Problems (PDF)  
+- Class 3 In-class Problem Solutions (PDF)
+
+## Class 4  
+- Class 4a Reading: Discrete Random Variables (PDF)  
+- Class 4b Reading: Expected Value of Discrete Random Variables (PDF)  
+- Class 4 Online Reading Questions about R  
+- Class 4 Online Reading Questions: 1  
+- Class 4 Online Reading Questions: 2  
+- Class 4 Slides: Discrete Random Variables; Expected Value (PDF)  
+- Class 4 In-class Problems (PDF)  
+- Class 4 In-class Problem Solutions (PDF)
+
+## Class 5  
+- Class 5a Reading: Variance of Discrete Random Variables (PDF)  
+- Class 5b Reading: Continuous Random Variables (PDF)  
+- Class 5c Reading: Gallery of Continuous Random Variables (PDF)  
+- Class 5d Reading: Manipulating Random Variables (PDF)  
+- Class 5 Online Reading Questions: 1  
+- Class 5 Online Reading Questions: 2  
+- Class 5 Online Reading Questions: 3  
+- Class 5 Online Reading Questions: 4  
+- Class 5a Slides: Variance of Discrete Variables; Continuous Random Variables (PDF)  
+- Class 5a In-class Problems (PDF)  
+- Class 5a In-class Problem Solutions (PDF)  
+- Class 5b Slides: Continuous Random Variables (continued) (PDF)  
+- Class 5b In-class Problems (PDF)  
+- Class 5b In-class Problem Solutions (PDF)
+
+## Class 6  
+- Class 6a Reading: Continuous Random Variables: Expectation and Variance (PDF)  
+- Class 6b Reading: Central Limit Theorem (PDF)  
+- Class 6c Reading: Appendix (PDF)  
+- Class 6 Online Reading Questions about variance  
+- Class 6 Online Reading Questions about CLT & LLN  
+- Class 6a Slides: Expected Value and Variance; Histograms (PDF)  
+- Class 6a In-class Problems (PDF)  
+- Class 6a In-class Problem Solutions (PDF)  
+- Class 6b Slides: Law of Large Numbers, Central Limit Theorem, Histograms (PDF)  
+- Class 6b In-class Problems (PDF)  
+- Class 6b In-class Problem Solutions (PDF)
+
+## Class 7  
+- Class 7a Reading: Joint Distributions, Independence (PDF)  
+- Class 7b Reading: Covariance and Correlation (PDF)  
+- Class 7 Online Reading Questions about joint distributions  
+- Class 7 Online Reading Questions about covariance & correlation  
+- Class 7 Slides: Joint Distributions, Independence, Covariance, Correlation (PDF)  
+- Class 7 In-class Problems (PDF)  
+- Class 7 In-class Problem Solutions (PDF)
+
+## Class 8  
+- Class 8 Slides: Review for Exam 1 (PDF)  
+- Normal Probability Table (PDF)  
+- Exam 1 Review List (PDF)  
+- Class 8 In-class Problems (PDF)  
+- Class 8 In-class Problem Solutions (PDF)
+
