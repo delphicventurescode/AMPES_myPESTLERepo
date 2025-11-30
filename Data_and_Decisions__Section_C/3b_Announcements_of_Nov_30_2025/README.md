@@ -6,11 +6,13 @@ To all students who are currently having difficulty in following the course mate
 
 ### Your Action Plan
 
-1.  **Watch All Videos:** Go through **every** video in the Khan Academy Probability Library.
+1.  **Watch All Videos:** Go through **as many videos as possible**  in the Khan Academy Probability Library, until you come up to speed. Only you can assess when you have come up to speed.
     * **Link:** [https://www.khanacademy.org/math/statistics-probability/probability-library](https://www.khanacademy.org/math/statistics-probability/probability-library)
 2.  **Identify Questions:** As you watch, specifically note every concept, formula, or example that you do not fully understand.
 3.  **Share Your Questions:** After completing the videos, you **must** share your questions with me, either by:
     * **Emailing me** a list of your specific questions.
     * **Telling me** your questions during our next class session.
-
+    
+4. Once you have come up to speed, you can use the Coursera course mentioned before to more quickly understand other concepts covered.
+   
 **The expectation is that you will watch the videos and come back prepared with specific questions for discussion.**
