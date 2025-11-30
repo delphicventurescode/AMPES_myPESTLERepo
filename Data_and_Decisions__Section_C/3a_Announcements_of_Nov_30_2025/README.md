@@ -13,7 +13,7 @@ A few comments:
 
 [+]
 
-3. You just need to know how to create an account on GitHub.com and access a repository. It is no different from creating an account on Amazon.com or Flipkart.com.
+3. You just need to know how to create an account on GitHub.com and access a repository. It is no different from creating an account on Amazon.com or Flipkart.com, and then going to a specific URL.
 
 [+]
 
