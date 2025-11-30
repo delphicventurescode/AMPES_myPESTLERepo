@@ -18,6 +18,8 @@ A few comments:
 [+]
 
 Link to the GitHub website: http://www.github.com/
+
+
 Link to the Sentimento app: Off this page: https://essshbarato.wordpress.com/%f0%9f%8c%90-esshs-technologies/
 
 [+]
