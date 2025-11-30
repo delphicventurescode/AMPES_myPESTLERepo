@@ -13,6 +13,9 @@ To all students who are currently having difficulty in following the course mate
     * **Emailing me** a list of your specific questions.
     * **Telling me** your questions during our next class session.
     
-4. Once you have come up to speed, you can use the Coursera course mentioned before to more quickly understand other concepts covered.
+4. Once you have come up to speed, you can use the MIT course mentioned before to more quickly understand other concepts covered.
+
+5. A quick way to come up to speed is to use the resources provided in this course:
+https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/pages/classes-reading-and-in-class-materials/
    
 **The expectation is that you will watch the videos and come back prepared with specific questions for discussion.**
