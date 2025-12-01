@@ -1,5 +1,7 @@
 # README
 
+[+]
+
 Dear Class,
 
 I am assigning you all a new homework task, which will be called the "Essay Homework".
