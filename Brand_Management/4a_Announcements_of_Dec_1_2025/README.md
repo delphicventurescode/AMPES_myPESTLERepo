@@ -11,4 +11,5 @@ Please write a three-page essay applying the concepts of brand management that w
 A quick note of feedback: many of you are not keeping up with the assigned readings, particularly the textbook material corresponding to the slides in Units 1 and 2. Please make sure you stay up to date with the readings.
 
 Thanks!
+
 [+]
