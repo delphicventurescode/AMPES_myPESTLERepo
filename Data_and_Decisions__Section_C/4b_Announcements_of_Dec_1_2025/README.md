@@ -16,7 +16,7 @@ A student picks one elective out of two categories:
 Three courses appear in *both* categories.
 
 **Question:**  
-If the student picks a course at random from the combined list, what is the probability that it is from Humanities or Management?
+If the student picks a course at random from the combined list, what is the probability that it is from Humanities AND Management?
 
 ---
 
