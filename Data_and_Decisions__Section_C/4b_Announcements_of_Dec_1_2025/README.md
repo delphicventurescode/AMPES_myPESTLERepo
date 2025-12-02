@@ -8,7 +8,7 @@ Please find below some problems for the class to solve.
 
 # Probability Problems for "Data and Decisions"
 
-## 1. Addition Rule (Simple)
+## 1. Problem #1
 A student picks one elective out of two categories:  
 - **Humanities** (10 courses available)  
 - **Management** (8 courses available)  
@@ -20,7 +20,7 @@ If the student picks a course at random from the combined list, what is the prob
 
 ---
 
-## 2. Addition Rule (With Overlap)
+## 2. Problem #2
 In a survey of 300 MBA students:  
 - 120 like *marketing*  
 - 180 like *finance*  
@@ -31,7 +31,7 @@ If a student is chosen at random, what is the probability they like marketing **
 
 ---
 
-## 3. Multiplication Rule (Independent Events)
+## 3. Problem #3
 A quality-control inspector checks two independent machines:  
 - Machine A produces a defective item with probability 0.04  
 - Machine B produces a defective item with probability 0.06  
