@@ -39,7 +39,7 @@ A quality-control inspector checks two independent machines:
 Each machine produces 100 widgets per day.
 
 **Question:**  
-What is the probability that both machines produce a defective item on the same day?
+What is the probability that both machines produce a defective item on the same day? That is, the probability that both Machine A and Machine B produce one or more defective items on the same day.
 
 ---
 **Question:**  
