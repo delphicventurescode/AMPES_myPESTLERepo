@@ -27,7 +27,7 @@ In a survey of 300 MBA students:
 - 70 like *both*
 
 **Question:**  
-If a student is chosen at random, what is the probability they like marketing **and** finance?
+If a student is chosen at random, what is the probability they like marketing **or** finance?
 
 ---
 
