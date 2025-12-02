@@ -41,8 +41,5 @@ Each machine produces 10 widgets per day.
 **Question:**  
 What is the probability that both machines produce a defective item on the same day? That is, the probability that both Machine A and Machine B produce one or more defective items on the same day.
 
----
-**Question:**  
-What is the probability that it came from Supplier B?
 
 [+]
