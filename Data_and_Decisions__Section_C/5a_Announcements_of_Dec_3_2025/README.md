@@ -28,3 +28,17 @@ http://www.facebook.com/qwykrtech/
 
 ////////////////////////////////////
 
+Videos we are watchhing today:
+
+////////////////////////////////////
+
+(*) Hypothesis Testing video:
+
+https://youtu.be/2fgQ_8AKhJY?si=WAE-d9_tv1H4Wve-
+
+(*) Hypothesis Z-Test using Excel:
+
+https://www.youtube.com/watch?v=dep4J39_jIA&t=426s
+
+[+]
+////////////////////////////////////
