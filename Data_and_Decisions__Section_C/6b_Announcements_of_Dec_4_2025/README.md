@@ -6,9 +6,12 @@ I’ve uploaded a set of beautiful, high-res pictures to my GitHub — think of 
 
 Check them out here: [URL below]
 
-Enjoy! 🌟
+Enjoy! 
+
+🌟
 
 [+]
+
 You can find the pictures here:
 
 https://github.com/delphicventurescode/PIX2__coolPics__public/
