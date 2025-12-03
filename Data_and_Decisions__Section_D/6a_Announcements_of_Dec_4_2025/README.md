@@ -4,11 +4,15 @@
 
 ## Get Python
 
-Please visit the official Python website to download and install Python:
+For those interested in learning Python:
+
+(-) Please visit the official Python website to download and install Python:
 
 [Python.org](http://www.python.org/)
 
 ---
+
+Also, try Linux as an alternative to Windows.
 
 ## Why Linux?
 
