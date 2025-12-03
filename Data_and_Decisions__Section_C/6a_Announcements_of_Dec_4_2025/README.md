@@ -1,13 +1,22 @@
 # README
 
-Please go to the following website for getting Python:
-
-http://www.python.org/
-
 [+]
 
-In addition, I would encourage everyone to install Linux on your computers so that you can take
-advantage of all the cool things that the Open Source Software movement has created for us.
+## Get Python
+
+Please visit the official Python website to download and install Python:
+
+[Python.org](http://www.python.org/)
+
+---
+
+## Why Linux?
+
+I also encourage everyone to try installing Linux on your computers. This lets you explore and take advantage of all the amazing things the Open Source Software movement has created for us.
+
+---
+
+## Download Some Cool Pictures
 
 [=]
 
@@ -21,5 +30,9 @@ wget -O pic2.jpg https://picsum.photos/1920/1080
 wget -O pic3.jpg https://picsum.photos/1920/1080
 wget -O pic4.jpg https://picsum.photos/1920/1080
 wget -O pic5.jpg https://picsum.photos/1920/1080
+
+[+]
+
+Enjoy your new pictures!
 
 [+]
