@@ -25,10 +25,15 @@ Want to download some cool pictures?
 Run these commands on Linux.
 
 [+]
+
 wget -O pic1.jpg https://picsum.photos/1920/1080
+
 wget -O pic2.jpg https://picsum.photos/1920/1080
+
 wget -O pic3.jpg https://picsum.photos/1920/1080
+
 wget -O pic4.jpg https://picsum.photos/1920/1080
+
 wget -O pic5.jpg https://picsum.photos/1920/1080
 
 [+]
