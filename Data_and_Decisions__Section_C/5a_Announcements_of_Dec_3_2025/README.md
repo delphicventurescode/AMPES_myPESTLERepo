@@ -18,3 +18,13 @@ int main()
     return 0;
 }
 
+// link to "Programming with Anand" Youtube channel:
+
+https://www.youtube.com/@ProgrammingWithAnand-ByFulmo
+
+// link to Facebook page for Qwykr Tech <- announcements for the "Programming with Anand" course.
+
+http://www.facebook.com/qwykrtech/
+
+////////////////////////////////////
+
