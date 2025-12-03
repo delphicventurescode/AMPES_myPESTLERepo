@@ -10,6 +10,9 @@ Please visit the official Python website to download and install Python:
 
 ---
 
+Also, try Linux as an alternative to Windows.
+
+
 ## Why Linux?
 
 I also encourage everyone to try installing Linux on your computers. This lets you explore and take advantage of all the amazing things the Open Source Software movement has created for us.
