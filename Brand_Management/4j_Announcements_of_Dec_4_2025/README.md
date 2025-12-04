@@ -40,8 +40,4 @@ Together, these six facets create a coherent identity that guides branding decis
 ---
 
 
-[Image of Kapferer's Brand Identity Prism diagram]
-
-
-Would you like me to find a specific example of how a well-known brand (like Apple or Nike) applies these six facets, or are you ready for the next piece of content to be converted?
 [+]
