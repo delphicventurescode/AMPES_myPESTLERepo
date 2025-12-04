@@ -50,6 +50,4 @@ As video content — especially short-form content — becomes central to digita
 
 ---
 
-Now that we have the details for Jasper AI (copy), Adobe Firefly (visuals), and Qlip (video), would you like me to put together a comprehensive comparison chart summarizing all three tools for your class?
-
 [+]
