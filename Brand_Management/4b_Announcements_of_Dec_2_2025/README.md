@@ -6,7 +6,7 @@ For those interested in learning programming.
 
 ########################+########################
 
-# README
+# INFO
 
 [+]
 
