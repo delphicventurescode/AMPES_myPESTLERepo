@@ -4,7 +4,7 @@
 
 Hi everyone,
 
-For those of you who expressed an interest in learning a bit of programming, I’ve created a small GitHub repository with some sample HTML code that you can explore and experiment with.
+For those of you in the Brand Management class as well as the Data and Decisions class who expressed an interest in learning a bit of programming, I’ve created a small GitHub repository with some sample HTML code that you can explore and experiment with.
 
 You can find it here:  
 **https://github.com/delphicventurescode/SAMPHT1_sample_html_repo__priv/tree/main/html**
