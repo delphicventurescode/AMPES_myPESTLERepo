@@ -1,1 +1,11 @@
-#
+## 🗓️ Important: Rescheduling Brand Management Presentations
+
+Hi everyone,
+
+If you were unable to complete your presentations on your assigned date, please come to the **Brand Management Club meeting** this Saturday at **12:00 PM (noon)** to reschedule.
+
+You can obtain the Google Meet link we use for the club meeting from your respective class representatives.
+
+Handling reschedules this way will significantly help **streamline our operational planning** for the remainder of the course. Please plan to attend if you missed your presentation date.
+
+[+]
