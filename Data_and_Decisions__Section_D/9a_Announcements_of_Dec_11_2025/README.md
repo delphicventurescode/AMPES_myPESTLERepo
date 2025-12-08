@@ -4,7 +4,7 @@
 
 ## 📢 Important Announcement: Programming & Open Source Resources
 
-Please follow along with the announcements on this **GitHub Repository** if you are interested in learning about programming and exploring open-source software principles.
+Please follow along with the announcements on this **GitHub Repository** if you are interested in learning about programming and exploring open-source software.
 
 ---
 
