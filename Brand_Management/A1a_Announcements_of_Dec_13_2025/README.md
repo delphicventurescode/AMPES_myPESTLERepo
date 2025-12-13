@@ -19,7 +19,9 @@ A. Reminder for those who missed doing their presentations on their assigned dat
 B. Reminder for the mini-project (mental awareness apps/services project):
 
 (-) Please get the first draft of your slide decks ready by EOD Monday.
+
 (-) All teams should send me their slide decks by EOD Monday via email.
 
+(-) In case you are unable to get it done by EOD Monday, try to get it done by EOD Thursday, and send it to by email by EOD Thursday.
 [+]
  
