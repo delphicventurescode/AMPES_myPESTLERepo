@@ -22,3 +22,4 @@ B. Reminder for the mini-project (mental awareness apps/services project):
 (-) All teams should send me their slide decks by EOD Monday via email.
 
 [+]
+ 
