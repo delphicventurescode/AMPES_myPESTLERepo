@@ -6,7 +6,7 @@ Reminder: yes, there will be a class tomorrow (that is, Friday, December 19, 202
 
 If there were any issues with my being unable to attend due to illness, I would have posted an update on this GitHub repo. At my company, even when a meeting date needs to be changed, we almost always provide at least three days' advance notice, and I have consistently followed this practice for over five years. I have never failed to inform stakeholders with sufficient advance notice. 
 
-A separate point I would like to make is concerning using the appropriate subject line when letting me know about any missing attendanace.
+A separate point I would like to make is concerning using the appropriate subject line when letting me know about any missing attendanace. 
 
 [+]
 
