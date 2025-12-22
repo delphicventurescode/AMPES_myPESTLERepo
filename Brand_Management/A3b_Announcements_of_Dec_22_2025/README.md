@@ -19,6 +19,10 @@ We will do the Access activity during the class, and it will be as follows.
 
 3. We will be collecting all usernames and adding everyone to the repository in one go.
 
+Nothing for you to do right now, but here is a preview of the Action Items that will be involved for this class activity. 
+
+You will need a GitHub username for this activity. So, please do sign up on GitHub and get a username ahead of the class activity.
+
 ### Action Items for the class activity:
 1. **Provide your GitHub username:** Drop it in the comments of this post.
 2. **Accept the Invitation:** Once we process the list, you will receive an email from GitHub. You **must** click the link in that email to accept the invitation and gain access.
