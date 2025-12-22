@@ -11,7 +11,7 @@ We are officially transitioning our resources to a new home for 2026:
 
 ### To gain access, we will do an activity in the class.
 
-We will do the Access activity during the class.
+We will do the Access activity during the class, and it will be as follows.
 
 1. We will circulate a URL in our class at the appropriate time. This might be a Facebook post on a Facebook Page. 
 
