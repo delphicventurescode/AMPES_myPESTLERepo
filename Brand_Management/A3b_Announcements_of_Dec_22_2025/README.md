@@ -21,7 +21,8 @@ We will do the Access activity during the class, and it will be as follows.
 
 Nothing for you to do right now, but here is a preview of the Action Items that will be involved for this class activity. 
 
-### PREVIEW_BEGIN
+### [ PREVIEW_BEGIN ]
+
 #### Action Items for the class activity:
 1. **Provide your GitHub username:** Drop it in the comments of this post.
 2. **Accept the Invitation:** Once we process the list, you will receive an email from GitHub. You **must** click the link in that email to accept the invitation and gain access.
@@ -29,7 +30,7 @@ Nothing for you to do right now, but here is a preview of the Action Items that 
 
 You will need a GitHub username for this activity. So, please do sign up on GitHub and get a username ahead of the class activity.
 
-### PREVIEW_END
+### [ PREVIEW_END ]
 
 Let’s start the new year with a **Gxoja** mindset.
 
