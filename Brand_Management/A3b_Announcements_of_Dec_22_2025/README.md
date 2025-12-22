@@ -9,6 +9,8 @@ We are officially transitioning our resources to a new home for 2026:
 
 **IMPORTANT:** Because this is a **private repository**, the link above will show a "404 Not Found" error until you are officially added as a collaborator. 
 
+### [ IMPORTANT_NOTE ]
+
 ### To gain access, we will do an activity in the class. Let us call it the Access activity.
 
 We will do the Access activity during the class, and it will be as follows.
