@@ -34,4 +34,5 @@ Which of the following best describes a brand?
 - A name, symbol, or design that identifies and differentiates a seller’s offerings
 
 - A promotional campaign run on social media
+
 [+]
