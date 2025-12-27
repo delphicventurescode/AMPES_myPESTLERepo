@@ -20,6 +20,10 @@ Yes, this is all enabled by Qwykr’s tech, but we believe the best brand experi
 
 In a world trying to "cash in on the hype," we’re focusing on building long-term brand equity through reliability and clarity.
 
+This is something worth thinking about but for now, we will negotiate the A.I. while leaving you to negotiate the exams. :-) 
+
+Bonŝancon por la ekzameno. (trans. : "Good luck for the examination").
+
 ***
 
 **#BrandManagement #QwykrTech #ProductPositioning #EdTech #AuthenticBranding**
