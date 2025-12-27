@@ -8,7 +8,7 @@ This strikes a chord with what we are studying in Brand Management: **How do you
 
 ### The Better Philosophy: Transparent Value
 
-At **Qwykr Technologies**, and **Fulmo Technologies**, we take a "efikeco" (trans. "efficiency") based approach. While our software is powered by AI and advanced tech, you won't see us making the kind of "over-the-top" claims that have become common in the industry. 
+At **Qwykr Technologies**, and **Fulmo Technologies**, we take a "efikeco" (trans. "efficiency") based approach. While our software is powered by AI and advanced tech, and while it results in efficiency gains, you won't see us making the kind of "over-the-top" claims that have become common in the industry. 
 
 Instead of selling the *technology*, we focus on the *utility*. Our goal is to ensure that the tech remains transparent so the user can focus on what matters. You’ll see this reflected in:
 
