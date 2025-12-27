@@ -16,7 +16,7 @@ Instead of selling the *technology*, we focus on the *utility*. Our goal is to e
 * **Seamless coordination** for the Brand Management club.
 * **Clarifying and simplifying** complex classroom logistics.
 
-Yes, this is all enabled by Qwykr’s tech, but we believe the best brand experience is one where the technology doesn't get in the way. It happens behind the scenes, allowing the results to speak for themselves.
+Yes, this is all enabled by Qwykr’s tech, and Fulmo's tech, but we believe the best brand experience is one where the technology doesn't get in the way. It happens behind the scenes, allowing the results to speak for themselves.
 
 In a world trying to "cash in on the hype," we’re focusing on building long-term brand equity through reliability and clarity.
 
