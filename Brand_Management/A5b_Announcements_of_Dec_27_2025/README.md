@@ -20,7 +20,7 @@ Yes, this is all enabled by Qwykr’s tech, and Fulmo's tech, but we believe the
 
 In a world trying to "cash in on the hype," we’re focusing on building long-term brand equity through reliability and clarity.
 
-This is something worth thinking about but for now, we will take care of negotiating the A.I. while leaving you to negotiate what's more important - the exams. :-) There is no urgency to read this post, even. You can simply bookmark it for now, and come back to reading this post and the associated weblinks in more detail after you have finished your exam.
+This is something worth thinking about but for now, we will take care of negotiating the A.I. and the development of the technology while leaving you to negotiate what's more important - the exams. :-) There is no urgency to read this post, even. You can simply bookmark it for now, and come back to reading this post and the associated weblinks in more detail after you have finished your exam.
 
 [+]
 
