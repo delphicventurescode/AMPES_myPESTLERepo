@@ -9,6 +9,7 @@ I recently came across a sharp critique of the software industry on LinkedIn. Th
 Links to go through:
 
 (a) https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about
+
 (b) https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117
 
 [+]
