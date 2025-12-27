@@ -2,17 +2,7 @@
 
 # Brand Management Perspective: Authenticity vs. AI Hype
 
-I recently came across a sharp critique of the software industry on LinkedIn. The author pointed out that the "over-the-top self-promotion" surrounding LLMs often ignores the high energy costs, the impact on human cognition, and the actual quality of the end product. Their conclusion? They’d rather leave the hype behind and "go find their horse."
-
-[+]
-
-Links to go through:
-
-(a) https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about
-
-(b) https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117
-
-[+]
+I recently came across a sharp critique of the software industry on LinkedIn. The author pointed out that the "over-the-top self-promotion" surrounding LLMs often ignores the high energy costs, the impact on human cognition, and the actual quality of the end product (for more context, see links below). Their conclusion? They’d rather leave the hype behind and "go find their horse."
 
 This strikes a chord with what we are studying in Brand Management: **How do you position a brand in a saturated, hype-driven market?**
 
@@ -38,5 +28,13 @@ This is something worth thinking about but for now, we will take care of negotia
 Bonŝancon por la ekzameno. (trans. : "Good luck for the examination").
 
 ***
+[+]
 
+Links to go through:
+
+(a) https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about
+
+(b) https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117
+
+[+]
 **#BrandManagement #QwykrTech #ProductPositioning #EdTech #AuthenticBranding**
