@@ -37,4 +37,7 @@ Links to go through:
 (b) https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117
 
 [+]
+
+***
+
 **#BrandManagement #QwykrTech #ProductPositioning #EdTech #AuthenticBranding**
