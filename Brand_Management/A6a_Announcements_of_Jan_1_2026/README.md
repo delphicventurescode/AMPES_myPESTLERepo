@@ -2,7 +2,7 @@
 
 Hi everyone,
 
-For those who were asked to present this **Friday**, please come prepared with your completed slide decks ready to go. 
+For those who were asked to present this **Friday**, because they were not able to present on their scheduled date, please come prepared with your completed slide decks ready to go. 
 
 We are currently working on the schedule and will determine the best way to coordinate the presentations, if it turns out to be possible to schedule them. 
 
