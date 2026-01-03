@@ -2,7 +2,7 @@
 
 Dear Class,
 
-The **Brand Management Club** meeting—which also serves as a forum for class-related issues—takes place every **Saturday at 12:00 PM**. We will be meeting today as scheduled.
+The **Brand Management Club** meeting—**which also serves as a forum for class-related issues**—takes place every **Saturday at 12:00 PM**. We will be meeting today as scheduled.
 
 Please use this session to bring up any of the following:
 
