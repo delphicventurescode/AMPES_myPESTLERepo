@@ -14,5 +14,7 @@ There are three available time slots:
 
 Please add your name to one of the four quarters within your chosen slot. For those who are not ready yet, we will provide further instructions soon.
 
+Please note that the viva will be online.
+
 Best regards,  
 Anand
