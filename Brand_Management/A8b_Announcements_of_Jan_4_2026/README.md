@@ -4,7 +4,7 @@
 
 Dear Class,
 
-For those ready for their viva this coming week, please sign up using the Google Docs sheet, which we are sending via WhatsApp.
+For those ready for their viva this coming week, please sign up using the Google Docs sheet, which we will be sending via WhatsApp.
 
 There are three available time slots:
 
