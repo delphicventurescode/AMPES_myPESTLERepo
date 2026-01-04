@@ -5,7 +5,7 @@ Hi everyone,
 I would like to encourage all of you to attend our **Saturday meetings** if you have any questions regarding:
 
 * **Course Content:** Clarifications on lectures, concepts, or academic materials.
-* **Class Logistics:** Questions regarding schedules, submissions, or administrative procedures.
+* **Class Logistics:** Questions regarding schedules, submissions, or administrative procedures. Also, questions frelated to rescheduling your presentation slots if you missed the original presentation slot, and questions related to attendance.
 
 The Saturday meetings are at twelve noon. To ensure everyone has an opportunity to connect, I opened a **second slot** this past Saturday for those who were unable to make it to the first one. 
 
