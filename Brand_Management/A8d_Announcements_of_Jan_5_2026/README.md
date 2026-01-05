@@ -18,7 +18,7 @@ Below is a summary of the Talk, as outputted by Gemini.
 
 **Source:** [YouTube Link](https://www.youtube.com/watch?v=Zex031zT68o)
 
-**Note:** Please note that, as far as I watched, this was a secular presentation on cognitive science and productivity, not a religious lecture. The insights are based on modern psychological research and are applicable to everyone regardless of personal beliefs. Please feel free to ignore this resource in case this is not of interest or, otherwse, does not align.
+**Note:** Please note that, as far as I watched, this was a secular presentation on cognitive science and productivity, not a religious lecture. The insights are based on modern psychological research and are applicable to everyone regardless of personal beliefs. Please feel free to ignore this resource in case this is not of interest or, otherwise, does not align.
 
 ---
 
