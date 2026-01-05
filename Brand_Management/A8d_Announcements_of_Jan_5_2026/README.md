@@ -8,7 +8,7 @@ Title: Why You Can’t Concentrate - And How to Fix It | Swami Sarvapriyananda
 
 [+]
 
-Below is a summary of the Talk, as outputted by Gemini. 
+Below is a summary of the Talk, as outputted by Gemini. Please note that 
 
 
 [+]
@@ -18,6 +18,8 @@ Below is a summary of the Talk, as outputted by Gemini.
 **Speaker:** Swami Sarvapriyananda
 
 **Source:** [YouTube Link](https://www.youtube.com/watch?v=Zex031zT68o)
+
+**Note:** While the speaker is a monk, this talk focuses on universal cognitive science and psychology rather than religious doctrine.
 
 ---
 
