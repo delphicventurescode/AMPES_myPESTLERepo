@@ -8,8 +8,7 @@ https://www.youtube.com/watch?v=Zex031zT68o
 
 **Title:**  Why You Can’t Concentrate - And How to Fix It | Swami Sarvapriyananda
 
-Below is a summary of the Talk, as outputted by Gemini. Please note that 
-
+Below is a summary of the Talk, as outputted by Gemini. 
 
 [+]
 
