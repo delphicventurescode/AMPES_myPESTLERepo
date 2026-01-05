@@ -49,4 +49,16 @@ Don't just "look" at the pages. Engage your curiosity using **SQ3R**:
 * **Review:** Go over the material to strengthen memory pathways.
 
 ### 2. The "Kaizen" Life
-Focus on **incremental improvement**. Improve your "Head, Heart, and Hand" (thinking
+Focus on **incremental improvement**. Improve your "Head, Heart, and Hand" (thinking, feeling, and doing) by just a small percentage every single day.
+
+### 3. Protect Your "Blade"
+Think of your mind like a **razor**. If you use it to sharpen pencils all day (meaningless scrolling or constant distractions), it will be too blunt to "shave" (perform deep work) when you actually need it.
+
+### 4. Practice Total Attention
+Swami Vivekananda’s core advice: **Do whatever you are doing with the fullest possible attention.** Whether you are playing a game, talking to a friend, or eating—practice being 100% present. This builds the "muscle" of concentration for when you need to study.
+
+---
+> "Whatever we are doing, we are usually performing below our capacity. Focus is the art of matching your ability to the challenge at hand."
+
+
+[+]
