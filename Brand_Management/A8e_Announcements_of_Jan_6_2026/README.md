@@ -2,9 +2,13 @@
 
 [+]
 
-Only people with issues related to attendance, et cetera, will need to fill out the form.
+Notes and comments:
 
-You will be given directions in class regarding fillng out the form. Don't fill out the form unless directed to do so.
+1. Forms have been created to tackle attendance related issues, et cetera.
+
+2. Only people with issues related to attendance, et cetera, will need to fill out one of the forms.
+
+3. You will be given directions in class regarding fillng out the form. Don't fill out the form until directed to do so.
 
 [+]
 ### Form Links
