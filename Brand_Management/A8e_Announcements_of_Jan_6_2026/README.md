@@ -2,7 +2,11 @@
 
 [+]
 
+Only people with issues related to attendance, et cetera, will need to fill out the form.
 
+You will be given directions in class regarding fillng out the form. Don't fill out the form unless directed to do so.
+
+[+]
 ### Form Links
 
 BM_KONKLUDO: Formularo
