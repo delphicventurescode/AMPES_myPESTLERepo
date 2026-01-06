@@ -36,3 +36,8 @@ https://docs.google.com/spreadsheets/d/1HI8wLBCYPgaBO_kPXt4nz0azoN8Zi4FhSCcDXCTv
 OWNER: *brokerages@goog*emai*.com
 
 [+]
+Google meet link for the viva sessions: http://meet.google.com/skh-kqou-wfa/
+
+Please use this link for your viva.
+
+[+]
