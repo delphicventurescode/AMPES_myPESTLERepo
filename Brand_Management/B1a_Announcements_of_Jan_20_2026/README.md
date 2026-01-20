@@ -1,13 +1,14 @@
 # README
 
-Dear class,
+# Subject: Action Required: PES Portal Open for Presentation & Research Submissions
 
-This is important.
+Dear Class,
 
-I have opened up the PES portal one more time. In order to get credit for the Class Presentation and the Class Research Project, you need to upload your submission for each to the portal once again.
+I have re-opened the **PES portal** to facilitate the grading process. 
 
-This is to ensure consistency.
+To ensure consistency and receive credit for your **Class Presentation** and **Class Research Project**, please upload your submissions to the portal once again. 
 
-Best regards,
+Thank you for your cooperation.
+
+Best regards,  
 Anand
-[+]
