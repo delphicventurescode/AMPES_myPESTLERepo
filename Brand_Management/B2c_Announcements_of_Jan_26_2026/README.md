@@ -10,4 +10,6 @@ I have opened the portal and created two additional items. Both of them have the
 
 Students who have not yet uploaded their **RP PDFs** and/or **presentation PPTs** to the portal are required to email the class representatives, **cc’ing the instructor**, with the reasons for the delay.
 
-Please address this **immediately**. Students are required to send out the email by EOD today (that is, Monday).
+Please address this **immediately**. Students are required to send out the email by EOD today or tomorrow (that is, Monday, January 26 or Tuesday, January 27).
+
+[ A ]
