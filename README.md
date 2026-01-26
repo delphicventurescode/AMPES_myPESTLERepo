@@ -19,8 +19,8 @@ My email address ending in **2012** also works — messages sent to the Gmail ad
 ## 3. Preferred Mode of Contact
 
 Email is the **preferred and official** way to reach me.  
-Only Class Representatives may contact me via WhatsApp or other channels when necessary.
-(To clarify, I am not available on the phone - other than for Class Reps.)
+
+Only Class Representatives may contact me via WhatsApp or other channels when necessary. (To clarify, I am not available on the phone - other than for Class Reps.)
 
 ## 4. Professional Standards (Corporate Communication)
 
