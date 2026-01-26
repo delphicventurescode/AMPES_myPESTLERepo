@@ -22,4 +22,12 @@ Email is the **preferred and official** way to reach me.
 Only Class Representatives may contact me via WhatsApp or other channels when necessary.
 (To clarify, I am not available on the phone - other than for Class Reps.)
 
+## 4. Professional Standards (Corporate Communication)
+
+As this is a Brand Management course, we will adhere to professional corporate communication standards. Please keep the following in mind:
+
+* **The Paper Trail:** Use email for all formal requests, submissions, and clarifications. This ensures a documented history of our correspondence for your records and mine.
+* **Professional Courtesy:** If you are unable to attend a session or meet a deadline due to an emergency, please provide sufficient advance notice.
+* **Response Times:** While I aim to respond quickly, please allow a 24-hour window before sending a follow-up.
+
 [+]
