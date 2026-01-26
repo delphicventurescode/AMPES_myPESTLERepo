@@ -27,7 +27,7 @@ Only Class Representatives may contact me via WhatsApp or other channels when ne
 As this is a Brand Management course, we will adhere to professional corporate communication standards. Please keep the following in mind:
 
 * **The Paper Trail:** Use email for all formal requests, submissions, and clarifications. This ensures a documented history of our correspondence for your records and mine.
-* **Professional Courtesy:** If you are unable to attend a session or meet a deadline due to an emergency, please provide sufficient advance notice.
-* **Response Times:** While I aim to respond quickly, please allow a 24-hour window before sending a follow-up.
+* **Professional Courtesy:** If you are unable to attend a session or meet a deadline due to an emergency, please provide sufficient advance notice. A minimum 24 hours of advance notice is generally expected, except in the case of a true emergency situation.
+* **Response Times:** While I aim to respond quickly, please allow a 24-hour to 72-hour window before sending a follow-up.
 
 [+]
