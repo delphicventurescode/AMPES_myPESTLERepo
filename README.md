@@ -4,7 +4,7 @@
 
 My primary email address is:
 
-**`<first_name>.<last_name>@gmail.com`**
+**`<first_name>.x.<last_name>@gmail.com`**
 
 This will always reach me.
 
