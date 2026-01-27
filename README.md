@@ -30,5 +30,6 @@ As this is a Brand Management course, we will adhere to professional corporate c
 * **Professional Courtesy:** If you are unable to attend a session or meet a deadline due to an emergency, please provide sufficient advance notice. A minimum 24 hours of advance notice is generally expected, except in the case of a true emergency situation.
 * **Response Times:** While I aim to respond quickly, please allow a 24-hour to 72-hour window before sending a follow-up.
 * **Weekly Resolution (Office Hours):** Office Hours are held every **Saturday**. The meeting time is also set, which is twelve noon. My goal is to resolve all pending queries and issues for the current week during this session. Consequently, the carry-over of unresolved matters from one week to the next is typically few to none. The meeting link has been made available on the Class' WhatsApp Group.
+* **Peak Period Support:** During high-demand periods—specifically toward the end of the trimester—I frequently open **additional time slots and supplementary Office Hours** on my calendar to ensure all student issues are resolved before deadlines.
 
 [+]
